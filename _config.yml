@@ -66,14 +66,14 @@ pagination_dir: page
 theme: apollo
 
 archive_generator:
-	per_page: 0
-	yearly: false
-	monthly: false
-	daily: false
+  per_page: 0
+  yearly: false
+  monthly: false
+  daily: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-	repo: https://github.com/trylovetom/trylovetom.github.io.git
-	branch: master
+  repo: https://github.com/trylovetom/trylovetom.github.io.git
+  branch: master
