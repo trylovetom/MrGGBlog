@@ -74,4 +74,6 @@ archive_generator:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+	repo: https://github.com/trylovetom/trylovetom.github.io.git
+	branch: master
