@@ -1,6 +1,6 @@
 machine:
   timezone:
-    UTC
+    Asia/Taipei
   node:
     version: 8.1.3
 deployment:
